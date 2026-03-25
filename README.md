@@ -64,19 +64,6 @@ That's it! No API keys or external services needed — everything runs locally i
 
 ---
 
-## 📸 Screenshots
-
-> _Add your screenshots here!_
-> 
-> Tip: Take a screenshot of the app showing a SAFE result, a SUSPICIOUS result, and a DANGER result for maximum impact. Drag them into this folder and update the paths below.
-
-```
-![Safe Result](screenshots/safe.png)
-![Suspicious Result](screenshots/suspicious.png)
-![Danger Result](screenshots/danger.png)
-```
-
----
 
 ## 🧪 Test It Out
 
